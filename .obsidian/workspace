@@ -7,8 +7,12 @@
         "id": "5041da0650d92c24",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "How to take mongo backup.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "How to take mongo backup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "How to take mongo backup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "How to take mongo backup.md"
+              }
             }
           },
           {
@@ -138,6 +146,7 @@
   },
   "active": "5041da0650d92c24",
   "lastOpenFiles": [
+    "admin panel marketplace.md",
     "board/base.md"
   ]
 }
