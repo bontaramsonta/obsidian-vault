@@ -4,14 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5b297ca0d2a1ce37",
-        "type": "leaf",
-        "state": {
-          "type": "kanban",
-          "state": {
-            "file": "board/base.md"
+        "id": "6407e8c1c713f58a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62d23aa18481dba7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to take mongo backup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -29,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -75,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "board/base.md",
+                "file": "How to take mongo backup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "board/base.md",
+                "file": "How to take mongo backup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "board/base.md"
+                "file": "How to take mongo backup.md"
               }
             }
           },
           {
-            "id": "536cac4884205128",
+            "id": "f197158ad1ef831d",
             "type": "leaf",
             "state": {
               "type": "BC-matrix",
@@ -128,24 +138,28 @@
             }
           },
           {
-            "id": "37af4c3900bd1af3",
+            "id": "1a9b63d805cf81b9",
             "type": "leaf",
             "state": {
               "type": "BC-tree",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "5b297ca0d2a1ce37",
+  "active": "bf5c49ab01521b42",
   "lastOpenFiles": [
+    "board/base.md",
+    "Excalidraw/cost_saving_microservice_architecture.excalidraw",
+    "Excalidraw/marketplace_seller_payment_system.excalidraw",
+    "Excalidraw/Drawing 2022-11-03 13.49.16.excalidraw.md",
     "How to take mongo backup.md",
-    "admin panel marketplace.md",
-    "board/base.md"
+    "admin panel marketplace.md"
   ]
 }
